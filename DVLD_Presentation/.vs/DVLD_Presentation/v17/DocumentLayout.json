@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|d:\\programming course\\nour\\nour vs\\dvld_presentation\\applications\\internationallicense\\frmmanageinternationalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|solutionrelative:applications\\internationallicense\\frmmanageinternationalapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\applications\\internationallicense\\frmshowintlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|solutionrelative:applications\\internationallicense\\frmshowintlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\applications\\internationallicense\\frmintlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|solutionrelative:applications\\internationallicense\\frmintlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\applications\\managedetainedlicenses\\frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|solutionrelative:applications\\managedetainedlicenses\\frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE379013-181A-491C-BA6A-10856B0C240C}|DVLD_Presentation.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmShowIntLicenseInfo.cs [Design]",
+              "DocumentMoniker": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\InternationalLicense\\frmShowIntLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmShowIntLicenseInfo.cs",
+              "ToolTip": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\InternationalLicense\\frmShowIntLicenseInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmShowIntLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:49:07.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmManageInternationalApplications.cs [Design]",
+              "DocumentMoniker": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\InternationalLicense\\frmManageInternationalApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmManageInternationalApplications.cs",
+              "ToolTip": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\InternationalLicense\\frmManageInternationalApplications.cs [Design]",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmManageInternationalApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:49:06.159Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmIntLicenseHistory.cs [Design]",
+              "DocumentMoniker": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\InternationalLicense\\frmIntLicenseHistory.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmIntLicenseHistory.cs",
+              "ToolTip": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\InternationalLicense\\frmIntLicenseHistory.cs [Design]",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmIntLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:48:55.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmManageDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\ManageDetainedLicenses\\frmManageDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\ManageDetainedLicenses\\frmManageDetainedLicenses.cs",
+              "ToolTip": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Applications\\ManageDetainedLicenses\\frmManageDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "Applications\\ManageDetainedLicenses\\frmManageDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:00:01.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAJUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:24:17.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\programming course\\Nour\\Nour vs\\DVLD_Presentation\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:57:43.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

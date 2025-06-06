@@ -1,0 +1,10 @@
+D:\programming course\Nour\Nour vs\DVLD_Business\bin\Debug\DVLD_Business.dll
+D:\programming course\Nour\Nour vs\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\programming course\Nour\Nour vs\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+D:\programming course\Nour\Nour vs\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\programming course\Nour\Nour vs\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\programming course\Nour\Nour vs\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\programming course\Nour\Nour vs\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\programming course\Nour\Nour vs\DVLD_Business\obj\Debug\DVLD_Business.dll
+D:\programming course\Nour\Nour vs\DVLD_Business\obj\Debug\DVLD_Business.pdb
+D:\programming course\Nour\Nour vs\DVLD_Business\bin\Debug\Guna.UI2.dll
