@@ -1,0 +1,23 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# VS indexes / Copilot
+*.vsidx
+.vs/**/CopilotIndices/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+EOF
+bash
+Copy code
